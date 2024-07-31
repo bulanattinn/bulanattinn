@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bulanattinn
-- 👀 I’m interested in programming and data anlyst
-- 🌱 I’m currently learning python
+- 👀 I’m interested in Front end, Data Science and Data Analyst
+- 🌱 I’m currently learning python, 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: she/her
