@@ -1,4 +1,4 @@
-Hi there! U'm Bulan Attin NUrazizah 👋 you can call me Bulan 😉
+Hi there! I'm Bulan Attin NUrazizah 👋 you can call me Bulan 😉
 
 About me 
 - 👩‍🎓 I am a student in Information Systems
