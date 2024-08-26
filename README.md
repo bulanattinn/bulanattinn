@@ -2,7 +2,7 @@ Hi there! I'm Bulan Attin NUrazizah 👋 you can call me Bulan 😉
 
 About me 
 - 👩‍🎓 I am a student in Information Systems
-- I'm interested in Web Development, Data Analystics, and Machine Learning.
+- 👀 I'm interested in Web Development, Data Analystics, and Machine Learning.
 - 🌱 I'm currently learning Data Analyst and Machine Learning
 - 👯 I’m always eager to collaborate or discuss on any data science related projects or topics.
 
