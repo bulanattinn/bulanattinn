@@ -8,4 +8,4 @@ About me
 
 How to Get in Touch:
 - 💬 Connect with me https://www.linkedin.com/in/bulanattinnurazizah/
-- 📫 Feel free to reach out to me via email @bulanattinn1001@gmail.com
+- 📫 Feel free to reach out to me via email bulanattinn1001@gmail.com
